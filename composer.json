@@ -1,0 +1,13 @@
+{
+    "name": "kmattimo/gracehome",
+    "description": "resource homepage for grace students/computers",
+    "authors": [
+        {
+            "name": "Kyle Mattimore",
+            "email": "kmattimo@umich.edu"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    }
+}
