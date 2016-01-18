@@ -7,7 +7,7 @@
   <title>Grace Homepage!</title>
   <meta name="description" content="Grace Care Center">
   <meta name="author" content="Kyle Mattimore" >
-
+  <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
