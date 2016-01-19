@@ -14,7 +14,7 @@
 <body>
 <div class="welcome">
   <div class="container welcome-content">
-      <h1 class="flex-text"> Grace Homepage </h1>
+      <h1 class="flex-text"> gracepage </h1>
       <img class="dove-image" src="/img/dove-41260.svg">
   </div>
 </div>
