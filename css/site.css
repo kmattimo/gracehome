@@ -1,0 +1,38 @@
+@import url(reset.css);
+@import url(skeleton.css);
+html, body {
+  margin: 0; }
+
+.center {
+  text-align: center; }
+
+.fancy-text {
+  font-size: 2.2rem; }
+
+.welcome {
+  padding-top: 15px;
+  text-align: center;
+  background-color: #ffc107;
+  margin-bottom: 20px; }
+
+.welcome-content {
+  display: flex;
+  flex-direction: row; }
+
+.dove-image {
+  flex-grow: 2;
+  max-height: 80px;
+  align-self: flex-end;
+  padding-bottom: 10px; }
+
+.flex-test {
+  flex-grow: 3; }
+
+.section {
+  padding: 4rem 0 3rem;
+  text-align: center; }
+
+.section-divider {
+  background-color: #ffc107;
+  padding: 4rem 0 3rem;
+  text-align: center; }
