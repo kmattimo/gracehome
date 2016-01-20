@@ -9,6 +9,7 @@
   <meta name="author" content="Kyle Mattimore" >
   <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
   <link rel='stylesheet' type='text/css' href='/css/site.css?vers=1' />
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
   
 </head>
 <body>
@@ -116,4 +117,5 @@
 
   
 </body>
+
 </html>
