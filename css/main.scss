@@ -1,4 +1,7 @@
 $header-color: #ffc107;
+// $divider-color: #ffecb3;
+// $divider-color: #ffe082;
+$divider-color: #b0bec5;
 
 html,body {
     margin:0;
@@ -38,8 +41,9 @@ html,body {
   text-align: center;
 }
 .section-divider {
-  // height: 200px;
-  background-color: $header-color;
-  padding: 4rem 0 3rem;
+  font-size: 1.6em;
+  // font-weight:bold;
+  background-color: $divider-color;
+  padding: 3rem 0 2rem;
   text-align: center;
 }
