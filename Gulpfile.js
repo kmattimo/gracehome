@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var browserSync = require('browser-sync').create();
-// var minifyCss = require('gulp-minify-css');
+var cssnano = require('gulp-cssnano');
 
 //all scss imported in site.scss, except page-specific stuff
 var output = './css/'
@@ -14,7 +14,7 @@ var templateFiles = './*.php';
 gulp.task('sass', function() {
     gulp.src(input)
         .pipe(sass().on('error', sass.logError))
-        // .pipe(minifyCss({compatibility: 'ie10'}))
+        .pipe(cssnano())
         .pipe(gulp.dest(output))
         .pipe(browserSync.stream());
 });
