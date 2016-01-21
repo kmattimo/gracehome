@@ -76,6 +76,7 @@
 
     <a target="_blank" href="/img/Cowboy-Chords.gif">Guitar Chords</a> 
     <a target="_blank"  href="http://www.guitarfriendly.net/basic-guitar-chord-charts/">More Guitar Chords</a> 
+    <a target="_blank"  href="http://www.songsterr.com/">Songsterr- look up songs</a> 
   </div>
 </div>
 
