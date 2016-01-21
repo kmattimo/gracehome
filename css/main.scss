@@ -1,7 +1,11 @@
 $header-color: #ffc107;
 // $divider-color: #ffecb3;
 // $divider-color: #ffe082;
-$divider-color: #b0bec5;
+// $divider-color: #b0bec5;
+$divider-color: #8db9cf;
+// $divider-color: #40c4ff;
+// $divider-color: #64b5f6;
+// $divider-color: #72afcc;
 
 html,body {
     margin:0;
@@ -25,18 +29,26 @@ body {
 }
 .welcome-content {
   display: flex;
-  flex-direction: row;
+  flex-direction:row;
+  // justify-content: space-between;
+  
 }
 
 .dove-image {
-    flex-grow: 2;
+    flex-grow: 1;
     max-height: 80px;
-    align-self:flex-end;
+    max-width:100px;
+    // align-self: flex-end;
+    align-self: flex-end;
+    margin-left: auto;
     padding-bottom: 10px;
+  
 }
 
 .flex-test {
-    flex-grow: 3;
+  align-self: center; ;
+  margin-left: auto;
+    flex-grow: 1;
 }
 
 .section {
@@ -48,7 +60,8 @@ body {
   justify-content: center;
   a, span {
     //is this 3-deep where the shit performance comes in? 
-    margin: 5px 20px;
+    padding: 5px 30px;
+    margin:auto;
   }
   }
 }

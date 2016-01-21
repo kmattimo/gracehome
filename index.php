@@ -16,7 +16,7 @@
 <body>
 <div class="welcome">
   <div class="container welcome-content">
-      <h1 class="flex-text"> gracepage </h1>
+      <h1 class="flex-test"> gracepage </h1>
       <img class="dove-image" src="/img/dove-41260.svg">
   </div>
 </div>
@@ -48,52 +48,34 @@
 
 <div class="section-divider">
   <div class="container">
-    <h4> Language Resources: </h4>
+    <h4> Language Resources </h4>
   </div>
 </div>
 
 <div class="section">
   <div class="container">
-    <div class="row">
-      <div class="one-half column">
-        <ul>
-          <li> <a target="_blank" href="https://en.wikipedia.org">English Wikipedia</a> </li>
-          <li> <a target="_blank" href="https://google.lk">Google Search</a> </li>
-          <li> <a target="_blank"  href="https://translate.google.com/#en/ta/Hello!">Google Translate</a> </li>
-        </ul>
-      </div>
-      <div class="one-half column">
-        <ul>
-          <li> <a target="_blank" href="https://ta.wikipedia.org">Tamil Wikipedia</a>
-          <li> <a target="_blank" href="https://www.google.lk/?hl=ta">Google Search (in Tamil) </a> </li> 
-        </ul>
-      </div>
-    </div>
+    <a target="_blank" href="https://en.wikipedia.org">English Wikipedia</a> 
+    <a target="_blank" href="https://ta.wikipedia.org">Tamil Wikipedia</a>
+    
+    <a target="_blank" href="https://google.lk">Google Search</a>
+    <a target="_blank" href="https://www.google.lk/?hl=ta">Google Search (in Tamil) </a>
+    <a target="_blank"  href="https://translate.google.com/#en/ta/Hello!">Google Translate</a> 
   </div>
 </div>
   
 <div class="section-divider">
   <div class="container">
-    <h4> Music Resources: </h4>
+    <h4> Music Resources </h4>
   </div>
 </div>
 
 <div class="section">
   <div class="container">
-    <div class="row">
-      <div class="one-half column">
-        <h5> Justinguitar</h5>
-        <a target="_blank" href="http://www.justinguitar.com/">Justinguitar Site</a>
-        <br>
-        <a target="_blank" href="http://www.justinguitar.com/en/BC-000-BeginnersCourse.php">Beginner's Guide</a> 
-      </div>
-      <div class="one-half column">
-        <h5> Other</h5>
-        <a target="_blank" href="/img/Cowboy-Chords.gif">Guitar Chords</a> 
-        <br>
-        <a target="_blank"  href="http://www.guitarfriendly.net/basic-guitar-chord-charts/">Guitar Chords Site</a> 
-      </div>
-    </div>
+    <a target="_blank" href="http://www.justinguitar.com/">Justinguitar Site</a>
+    <a target="_blank" href="http://www.justinguitar.com/en/BC-000-BeginnersCourse.php"> Justinguitar Beginner's Guide</a> 
+
+    <a target="_blank" href="/img/Cowboy-Chords.gif">Guitar Chords</a> 
+    <a target="_blank"  href="http://www.guitarfriendly.net/basic-guitar-chord-charts/">More Guitar Chords</a> 
   </div>
 </div>
 
@@ -105,11 +87,9 @@
 
 <div class="section">
   <div class="container">
-    <div class="row">
-      <a href="https://www.google.lk/maps/@8.5850908,81.220053,14.07z" target="_blank"> Google Maps- Trincomalee  </a>
+    <a href="https://www.google.lk/maps/@8.5850908,81.220053,14.07z" target="_blank"> Google Maps- Trincomalee  </a>
 
-      <a href="https://www.google.lk/maps/@42.2769361,-83.7382822,17.05z?hl=en" target="_blank"> Google Maps- University of Michigan </a>
-    </div>
+    <a href="https://www.google.lk/maps/@42.2769361,-83.7382822,17.05z?hl=en" target="_blank"> Google Maps- University of Michigan </a>
   </div>
 </div>
 
