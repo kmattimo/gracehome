@@ -32,7 +32,7 @@
 <div class="section-divider">
   <div class="container">
     <div class="section-header">
-      Links
+      <h4> Links </h4>
     </div>
   </div>
 </div>
@@ -40,14 +40,15 @@
 <div class="section">
   <div class="container">
     <a href="https://docs.google.com/spreadsheets/d/1_Bc2FcGZryWpkE-7H3DikLuBc1BZ22rPclLGnyKvt-8/" target="_blank">Rosetta Stone Progress Log</a>
+    
+    <a href="https://drive.google.com/drive/u/0/folders/0B2ofTcXEQyC8MlBFV3drMGcxcjQ" target="_blank">Grace Google Drive</a>
+    
   </div>
 </div>
 
 <div class="section-divider">
   <div class="container">
-    <div class="section-header">
-      Language Resources: 
-    </div>
+    <h4> Language Resources: </h4>
   </div>
 </div>
 
@@ -73,9 +74,7 @@
   
 <div class="section-divider">
   <div class="container">
-    <div class="section-header">
-      Music Resources: 
-    </div>
+    <h4> Music Resources: </h4>
   </div>
 </div>
 
@@ -100,9 +99,7 @@
 
 <div class="section-divider">
   <div class="container">
-    <div class="section-header">
-      Cool stuff
-    </div>
+    <h4> Cool stuff</h4>
   </div>
 </div>
 
@@ -110,7 +107,7 @@
   <div class="container">
     <div class="row">
       <a href="https://www.google.lk/maps/@8.5850908,81.220053,14.07z" target="_blank"> Google Maps- Trincomalee  </a>
-      <br>
+
       <a href="https://www.google.lk/maps/@42.2769361,-83.7382822,17.05z?hl=en" target="_blank"> Google Maps- University of Michigan </a>
     </div>
   </div>

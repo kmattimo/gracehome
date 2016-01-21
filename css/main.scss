@@ -6,6 +6,9 @@ $divider-color: #b0bec5;
 html,body {
     margin:0;
 }
+body {
+    font-size: 1.7em;
+}
 .center {
   text-align: center;
 }
@@ -39,11 +42,19 @@ html,body {
 .section {
   padding: 4rem 0 3rem;
   text-align: center;
+  .container {
+  display: flex; 
+  flex-flow: row wrap;
+  justify-content: center;
+  a, span {
+    //is this 3-deep where the shit performance comes in? 
+    margin: 5px 20px;
+  }
+  }
 }
 .section-divider {
-  font-size: 1.6em;
-  // font-weight:bold;
   background-color: $divider-color;
-  padding: 3rem 0 2rem;
+  padding: 3rem 0 2.5rem;
   text-align: center;
+  h1,h2,h3,h4,h5 { margin-bottom: 0; } 
 }
