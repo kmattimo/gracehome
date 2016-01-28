@@ -6,12 +6,17 @@ $divider-color: #8db9cf;
 // $divider-color: #40c4ff;
 // $divider-color: #64b5f6;
 // $divider-color: #72afcc;
+$link-color: #263238;
+
 
 html,body {
     margin:0;
 }
 body {
-    font-size: 1.7em;
+    font-size: 1.6em;
+}
+a {
+    color:$link-color;
 }
 .center {
   text-align: center;
@@ -52,7 +57,7 @@ body {
 }
 
 .section {
-  padding: 4rem 0 3rem;
+  padding: 3rem 0 3rem;
   text-align: center;
   .container {
   display: flex; 
@@ -60,7 +65,7 @@ body {
   justify-content: center;
   a, span {
     //is this 3-deep where the shit performance comes in? 
-    padding: 5px 30px;
+    padding: 5px 25px;
     margin:auto;
   }
   }
