@@ -63,9 +63,9 @@ a {
   display: flex; 
   flex-flow: row wrap;
   justify-content: center;
-  a, span {
+  a {
     //is this 3-deep where the shit performance comes in? 
-    padding: 5px 25px;
+    padding: 1rem 25px;
     margin:auto;
   }
   }
