@@ -65,7 +65,7 @@
 <div class="section">
   <div class="container">
     
-    <a target="_blank" href="http://typing.kylemattimore.com">
+    <a target="_blank" href="https://typing.kylemattimore.com">
       <span class="icon-keyboard"></span>Typing Games Site</a> 
     <a target="_blank" href="https://simple.wikipedia.org/wiki/Main_Page">
       <span class="icon-wikipedia"></span>Simple English Wikipedia</a> 
