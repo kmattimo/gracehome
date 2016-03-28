@@ -50,8 +50,11 @@
     <a href="https://drive.google.com/drive/u/0/folders/0B2ofTcXEQyC8MlBFV3drMGcxcjQ" target="_blank">
       <span class="icon-dove-41260"></span>Grace Google Drive</a>
     
-    <a href="http://www.wolframalpha.com/">
+    <a href="http://www.wolframalpha.com/"  target="_blank">
       <span class="icon-book"></span>WolframAlpha</a>
+      
+    <a href="https://www.youtube.com/user/KhanAcademyTamil/videos"  target="_blank">
+      <span class="icon-youtube"></span>KhanAcademy Tamil</a>
   
   </div>
 </div>
