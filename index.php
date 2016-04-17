@@ -67,7 +67,12 @@
 
 <div class="section">
   <div class="container">
-    
+    <span class="emphasis">
+      <a target="_blank" href="https://www.google.com/intl/ta/inputtools/try/">
+        <span class="icon-language"></span>Google Tamil Input Tools</a>
+      <a target="_blank" href="https://www.google.lk/?hl=ta">
+        <span class="icon-google"></span>Google Search (in Tamil) </a>
+    </span>
     <a target="_blank" href="https://typing.kylemattimore.com">
       <span class="icon-keyboard"></span>Typing Games Site</a> 
     <a target="_blank" href="https://simple.wikipedia.org/wiki/Main_Page">
@@ -76,8 +81,7 @@
       <span class="icon-wikipedia"></span>English Wikipedia</a> 
     <a target="_blank" href="https://ta.wikipedia.org">
       <span class="icon-wikipedia"></span>Tamil Wikipedia</a>
-    <a target="_blank" href="https://www.google.lk/?hl=ta">
-      <span class="icon-google"></span>Google Search (in Tamil) </a>
+  
     <a target="_blank"  href="https://translate.google.com/#en/ta/Hello!">
       <span class="icon-language"></span>Google Translate</a> 
   </div>
